@@ -22,3 +22,9 @@ My document provides...
 == Another Level 1 Section Title
 
 include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/master/README.adoc[]
+
+
+* [*] checked
+* [x] also checked
+* [ ] not checked
+*     normal list item
